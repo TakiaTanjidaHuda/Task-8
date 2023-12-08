@@ -171,4 +171,14 @@ nav{
     height: 32px;
     width: 32px;
 }
+h6{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: normal;
+
+}
 
